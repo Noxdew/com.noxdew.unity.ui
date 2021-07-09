@@ -1,0 +1,16 @@
+{
+  "name": "com.noxdew.unity.ui",
+  "version": "1.0.0",
+  "displayName": "Noxdew UI",
+  "description": "A collection of handy UI scripts and assets",
+  "dependencies": {},
+  "keywords": [
+    "UI",
+    "Healthbar"
+  ],
+  "author": {
+    "name": "Noxdew",
+    "email": "team@noxdew.com",
+    "url": "https://noxdew.com"
+  }
+}
